@@ -23,7 +23,7 @@
 
 - 📍 Based in **Dhaka, Bangladesh**
 - 🎓 Final-year CS undergraduate at **United International University**
-- 💻 Portfolio: [ihmorol.github.io](https://ihmorol.github.io)
+- 💻 Portfolio: [My Portfolio](https://ihmorol.github.io)
 - 📫 Email: [ihmorol@gmail.com](mailto:ihmorol@gmail.com)
 - 🏆 **500+ problems solved** on Codeforces & other competitive programming platforms
 - 🔭 Specializing in **Full-Stack MERN**, **Software Engineering** & **Applied Machine Learning**
