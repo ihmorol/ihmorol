@@ -19,6 +19,8 @@
 
 ## 🌍 About Me
 
+> Final-year CS undergrad with hands-on **MERN stack** experience — built real-world software projects, collaborated with cross-functional teams, and served as a **university teaching assistant**. Passionate competitive programmer with a knack for turning complex problems into clean, scalable solutions.
+
 - 📍 Based in **Dhaka, Bangladesh**
 - 🎓 Final-year CS undergraduate at **United International University**
 - 💻 Portfolio: [ihmorol.cv](http://ihmorol.cv)
