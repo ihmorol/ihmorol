@@ -31,6 +31,17 @@
 
 ---
 
+## 🎖️ Academic & Competitive Achievements
+
+- 🥇 **Champion** — Software Engineering Laboratory, CSE Project Show, UIU
+- 🥇 **Champion** — Programming Contest, UIU CSE Week
+- 📚 **Undergraduate Teaching Assistant** — United International University
+- 🌟 **100% Merit-Based Scholarship** recipient (5 times) — awarded to the top 3% of students each trimester
+- 🥈 **1st Runner-Up** — Advanced Object-Oriented Programming (Java), CSE Project Show, UIU
+- 🏅 **6th Runner-Up** — System Analysis & Design Laboratory Project Showcase, CSE Project Show, UIU
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
