@@ -1,11 +1,11 @@
 <!-- Header Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Ikramul%20Hasan%20Moral&fontSize=42&fontColor=F8FAFC&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Ikramul%20Hasan%20Moral&fontSize=42&fontColor=F8FAFC&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20Final-Year%20CS%20Undergrad&descAlignY=55&descSize=18" alt="Header Banner" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+MERN+Developer;Software+%26+Systems+Engineer;ML+%26+AI+Enthusiast;500%2B+Competitive+Programming+Problems;Based+in+Dhaka%2C+Bangladesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+Developer;Software+%26+Systems+Engineer;Applied+ML+Researcher;Research+Paper+Under+Review;500%2B+Competitive+Programming+Problems;Based+in+Dhaka%2C+Bangladesh" alt="Typing SVG" />
 </p>
 
 <!-- Visitor Counter + Followers -->
@@ -19,21 +19,24 @@
 
 ## 🌍 About Me
 
-> Final-year CS undergrad with hands-on **MERN stack** experience — built real-world software projects, collaborated with cross-functional teams, and served as a **university teaching assistant**. Passionate competitive programmer with a knack for turning complex problems into clean, scalable solutions.
+> Final-year CS undergrad shipping **production full-stack platforms** and doing **applied ML research**. Led a 5-member team to a Champion win at the UIU CSE Project Show, serve as a **university teaching assistant**, and have my first **research paper under peer review**. Passionate competitive programmer with a knack for turning complex problems into clean, scalable solutions.
 
 - 📍 Based in **Dhaka, Bangladesh**
-- 🎓 Final-year CS undergraduate at **United International University**
-- 💻 Portfolio: [My Portfolio](https://ihmorol.github.io)
+- 🎓 Final-year CS undergraduate at **United International University** — CGPA 3.94, 100% merit scholarship (6 terms)
+- 💻 Portfolio: [ihmorol.me](https://ihmorol.me)
+- 📄 **Research paper under review** — class-imbalanced intrusion detection on UNSW-NB15
+- 🔬 Thesis: *Solving the Lorenz ODE System Using Optimal ANN Architectures* (FYDP-I defended)
 - 📫 Email: [ihmorol@gmail.com](mailto:ihmorol@gmail.com)
 - 🏆 **500+ problems solved** on Codeforces & other competitive programming platforms
-- 🔭 Specializing in **Full-Stack MERN**, **Software Engineering** & **Applied Machine Learning**
+- 🔭 Specializing in **Full-Stack Development**, **Software Engineering** & **Applied Machine Learning**
 - 🤝 Open to collaborating on real-world, impactful projects
 
 ---
 
 ## 🎖️ Academic & Competitive Achievements
 
-- 🥇 **Champion** — Software Engineering Laboratory, CSE Project Show, UIU
+- 📄 **First Research Paper Under Review** — reproducible class-imbalance baselines for intrusion detection (UNSW-NB15)
+- 🥇 **Champion & Team Lead** — Software Engineering Laboratory (Advyon legal-tech platform), CSE Project Show, UIU
 - 🥇 **Champion** — Programming Contest, UIU CSE Week
 - 📚 **Undergraduate Teaching Assistant** — United International University
 - 🌟 **100% Merit-Based Scholarship** recipient (6 times) — awarded to the top 3% of students each trimester
@@ -114,8 +117,8 @@
     <img src="https://img.shields.io/badge/Dev.to-ekramul__hasan-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
   &nbsp;
-  <a href="https://ihmorol.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ihmorol.github.io-374151?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  <a href="https://ihmorol.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ihmorol.me-374151?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:ihmorol@gmail.com">
