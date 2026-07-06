@@ -89,6 +89,23 @@ More on my [portfolio](https://ihmorol.me/projects).
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihmorol&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihmorol&theme=tokyonight" alt="Top Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ihmorol&theme=tokyonight" alt="Most Used Languages by Commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ihmorol&theme=tokyonight&utcOffset=6" alt="Productive Time" />
+</p>
+
+---
+
 ## Activity
 
 <p align="center">
