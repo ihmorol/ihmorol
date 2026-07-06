@@ -1,11 +1,11 @@
 <!-- Header Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Ikramul%20Hasan%20Moral&fontSize=42&fontColor=F8FAFC&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20Final-Year%20CS%20Undergrad&descAlignY=55&descSize=18" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Ikramul%20Hasan%20Moral&fontSize=42&fontColor=F8FAFC&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20Final-Year%20CSE%20%40%20UIU&descAlignY=55&descSize=18" alt="Ikramul Hasan Moral" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+Developer;Software+%26+Systems+Engineer;Applied+ML+Researcher;Research+Paper+Under+Review;500%2B+Competitive+Programming+Problems;Based+in+Dhaka%2C+Bangladesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Full-Stack+Developer;Applied+ML+Researcher;Undergraduate+Teaching+Assistant+%40+UIU;Paper+Under+Peer+Review;500%2B+Competitive+Programming+Problems" alt="Typing SVG" />
 </p>
 
 <!-- Visitor Counter + Followers -->
@@ -17,80 +17,83 @@
 
 ---
 
-## 🌍 About Me
+## About Me
 
-> Final-year CS undergrad shipping **production full-stack platforms** and doing **applied ML research**. Led a 5-member team to a Champion win at the UIU CSE Project Show, serve as a **university teaching assistant**, and have my first **research paper under peer review**. Passionate competitive programmer with a knack for turning complex problems into clean, scalable solutions.
+Final-year Computer Science student at United International University. I build full-stack products that people actually use, and I do applied machine learning research on the side. I led a five-person team to a Champion win at the UIU CSE Project Show with Advyon, I run a live IELTS platform used by thousands of students as a freelance developer, and my first paper — on class-imbalanced intrusion detection — is under peer review.
 
 - 📍 Based in **Dhaka, Bangladesh**
-- 🎓 Final-year CS undergraduate at **United International University** — CGPA 3.94, 100% merit scholarship (6 terms)
-- 💻 Portfolio: [ihmorol.me](https://ihmorol.me)
-- 📄 **Research paper under review** — class-imbalanced intrusion detection on UNSW-NB15
-- 🔬 Thesis: *Solving the Lorenz ODE System Using Optimal ANN Architectures* (FYDP-I defended)
-- 📫 Email: [ihmorol@gmail.com](mailto:ihmorol@gmail.com)
-- 🏆 **500+ problems solved** on Codeforces & other competitive programming platforms
-- 🔭 Specializing in **Full-Stack Development**, **Software Engineering** & **Applied Machine Learning**
-- 🤝 Open to collaborating on real-world, impactful projects
+- 🎓 Final-year **B.Sc. in CSE @ United International University** — CGPA **3.94/4.00**, 100% merit scholarship for 6 terms (top 3% each trimester)
+- 🧑‍🏫 **Undergraduate Teaching Assistant** — Data Structures & Algorithms, DBMS, and ICS
+- 🔬 **Paper under peer review** — class-imbalanced intrusion detection on UNSW-NB15
+- 📝 **Thesis** — *Solving the Lorenz ODE System Using Optimal ANN Architectures* (FYDP-I defended)
+- 🏆 **500+ problems solved** on Codeforces, LeetCode, and HackerRank
+- 💻 Portfolio: **[ihmorol.me](https://ihmorol.me)** &nbsp;·&nbsp; 📫 **[ihmorol@gmail.com](mailto:ihmorol@gmail.com)**
+- 🤝 Open to new-grad software engineering / ML roles and research collaborations
 
 ---
 
-## 🎖️ Academic & Competitive Achievements
+## Featured Projects
 
-- 📄 **First Research Paper Under Review** — reproducible class-imbalance baselines for intrusion detection (UNSW-NB15)
-- 🥇 **Champion & Team Lead** — Software Engineering Laboratory (Advyon legal-tech platform), CSE Project Show, UIU
-- 🥇 **Champion** — Programming Contest, UIU CSE Week
-- 📚 **Undergraduate Teaching Assistant** — United International University
-- 🌟 **100% Merit-Based Scholarship** recipient (6 times) — awarded to the top 3% of students each trimester
-- 🥈 **1st Runner-Up** — Advanced Object-Oriented Programming (Java), CSE Project Show, UIU
-- 🏅 **6th Runner-Up** — System Analysis & Design Laboratory Project Showcase, CSE Project Show, UIU
+| Project | What it is | Tech | Links |
+|---|---|---|---|
+| **Advyon** | AI legal-tech platform for the Bangladeshi legal ecosystem. Champion at the UIU CSE Project Show; I led a team of 5. | React, Express, TypeScript, MongoDB | [Client](https://github.com/ihmorol/advyon-client) · [Server](https://github.com/ihmorol/advyon-server) · [Live](https://advyon.vercel.app) |
+| **Rimons IELTS** | Live IELTS-prep platform I build and operate as a freelancer: student portal, REST API, and admin dashboard. | Next.js 15, Express, TypeScript, React | [Live](https://rimonsielts.com) |
+| **BriefLi** | Shortlink dashboard with AI-suggested slugs, click tracking, and public/private link spaces. Runs daily. | React, TypeScript, Supabase, Vercel | [Code](https://github.com/ihmorol/briefli) · [Live](https://s.ihmorol.cv) |
+| **Fall Detection Wearable** | End-to-end IoT safety system: Arduino firmware, a Python fall classifier, a Node.js alert server, and a caregiver dashboard. | Arduino/C++, Python, Node.js | [Code](https://github.com/ihmorol/Fall_Detection_Wearable_Device) |
+| **VoiceKey** | Offline voice typing for Linux and Windows built on faster-whisper — fully local, with a daemon mode and CLI. | Python, Whisper, CLI | [Code](https://github.com/ihmorol/voicekey) |
+| **PrintSlot** | Mobile app for campus print shops: upload files, set options, see the price, and book a pickup slot. | React Native, Expo, TypeScript | [Code](https://github.com/ihmorol/PrintSlot) |
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java,react,nextjs,redux,nodejs,express,mongodb,firebase,tailwind,bootstrap,html,css,git,figma,vscode,python&perline=10" alt="Tech Stack" />
-</p>
+More on my [portfolio](https://ihmorol.me/projects).
 
 ---
 
-## 🏆 GitHub Trophies
+## Research
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ihmorol&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ihmorol&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B1220&title_color=E6EDF3&icon_color=E6EDF3&text_color=c9d1d9&border_radius=12" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihmorol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=E6EDF3&text_color=c9d1d9&border_radius=12&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ihmorol&theme=tokyonight&hide_border=true&background=0B1220&ring=E6EDF3&fire=9CA3AF&currStreakLabel=E6EDF3&border_radius=12" alt="GitHub Streak" />
-</p>
+- **Handling Class Imbalance in UNSW-NB15 Intrusion Detection** — *first author, under peer review (2026).* An 18-experiment study comparing class weighting and SMOTE against no balancing across LR, RF, and XGBoost, with per-class analysis of rare attacks (Worms 0.07%, Shellcode 0.65%). &nbsp;[Code](https://github.com/ihmorol/unsw-nb15-handling-binary-multiclass-ids)
+- **Solving the Lorenz ODE System Using Optimal ANN Architectures** — *undergraduate thesis, in progress (FYDP-I defended, supervisor Dr. Muhammad Nomani Kabir).* A 69-run architecture search testing how well plain neural networks learn a coupled nonlinear ODE system, against a solver-verified ground truth (RMSE ~1.3e-11). &nbsp;[Workspace](https://github.com/ihmorol/fydp_workspace)
+- **ANN Modeling of Hybrid Nanofluid Boundary Layer Flow** — a 9-layer network trained with Levenberg-Marquardt optimization on ~32,400 physics-generated samples. &nbsp;[Code](https://github.com/ihmorol/ann-hybrid-nanofluid-model)
 
 ---
 
-## 📈 Contribution Activity Graph
+## Achievements
+
+- 🥇 **Champion & Team Lead** — Software Engineering Lab (Advyon), UIU CSE Project Show
+- 🥇 **Champion** — UIU CSE Week Intra-University Programming Contest
+- 🌟 **100% Merit Scholarship** — 6 consecutive trimesters, awarded to the top 3% of students
+- 🥈 **1st Runner-Up** — Advanced Object-Oriented Programming (Java) Showcase, UIU
+- 🏅 **6th Runner-Up** — System Analysis & Design Lab Showcase, UIU
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,java" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" alt="Frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,redis,supabase,firebase" alt="Backend" />
+
+**Machine Learning & Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="Machine Learning" />
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode,postman,figma" alt="Tools" />
+
+---
+
+## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihmorol&theme=tokyo-night&hide_border=true&bg_color=0B1220&color=E6EDF3&line=E6EDF3&point=9CA3AF&area=true&area_color=E6EDF3" alt="Contribution Graph" />
 </p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -102,31 +105,23 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect
 
 <p align="center">
-  <a href="https://github.com/ihmorol" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ihmorol-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://ihmorol.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ihmorol.me-374151?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ihmorol" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ihmorol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://dev.to/ekramul_hasan" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-ekramul__hasan-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-  &nbsp;
-  <a href="https://ihmorol.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ihmorol.me-374151?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  <a href="https://codeforces.com/profile/ihmorol" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-ihmorol-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   &nbsp;
   <a href="mailto:ihmorol@gmail.com">
     <img src="https://img.shields.io/badge/Email-ihmorol%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/ihmorol" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-ihmorol-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
 
