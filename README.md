@@ -8,11 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Full-Stack+Developer;Applied+ML+Researcher;Undergraduate+Teaching+Assistant+%40+UIU;Paper+Under+Peer+Review;500%2B+Competitive+Programming+Problems" alt="Typing SVG" />
 </p>
 
-<!-- Visitor Counter + Followers -->
+<!-- Profile Views + Followers + Contributions -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ihmorol&label=Profile+Views&color=1f2937&style=for-the-badge" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/ihmorol?label=Followers&style=for-the-badge&color=374151&labelColor=111827" alt="GitHub Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fihmorol%3Fy%3D2026&query=%24.total.2026&label=Contributions%20in%202026&style=for-the-badge&color=374151&labelColor=111827&logo=github&logoColor=white" alt="Contributions in 2026" />
 </p>
 
 ---
@@ -89,24 +91,7 @@ More on my [portfolio](https://ihmorol.me/projects).
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihmorol&theme=github_dark" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihmorol&theme=github_dark" alt="Top Languages by Repository" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ihmorol&theme=github_dark" alt="Most Used Languages by Commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ihmorol&theme=github_dark&utcOffset=6" alt="Productive Time" />
-</p>
-
----
-
-## Activity
+## Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihmorol&theme=tokyo-night&hide_border=true&bg_color=0B1220&color=E6EDF3&line=E6EDF3&point=9CA3AF&area=true&area_color=E6EDF3" alt="Contribution Graph" />
