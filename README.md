@@ -26,8 +26,8 @@ Final-year Computer Science student at United International University. I build 
 - 📍 Based in **Dhaka, Bangladesh**
 - 🎓 Final-year **B.Sc. in CSE @ United International University** — CGPA **3.94/4.00**, 100% merit scholarship for 6 terms (top 3% each trimester)
 - 🧑‍🏫 **Undergraduate Teaching Assistant** — Data Structures & Algorithms, DBMS, and ICS
-- 🔬 **Paper under peer review** — class-imbalanced intrusion detection on UNSW-NB15
-- 📝 **Thesis** — *Solving the Lorenz ODE System Using Optimal ANN Architectures* (FYDP-I defended)
+- 🔬 **Research Work** — class-imbalanced intrusion detection on UNSW-NB15, Solving ODE using ANN. 
+- 📝 **Thesis** — *Solving the Lorenz ODE System Using Optimal ANN Architectures*
 - 🏆 **500+ problems solved** on Codeforces, LeetCode, and HackerRank
 - 💻 Portfolio: **[ihmorol.me](https://ihmorol.me)** &nbsp;·&nbsp; 📫 **[ihmorol@gmail.com](mailto:ihmorol@gmail.com)**
 - 🤝 Open to new-grad software engineering / ML roles and research collaborations
@@ -118,7 +118,7 @@ More on my [portfolio](https://ihmorol.me/projects).
     <img src="https://img.shields.io/badge/LinkedIn-ihmorol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://codeforces.com/profile/ihmorol" target="_blank">
+  <a href="https://codeforces.com/profile/ekramul11" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-ihmorol-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   &nbsp;
