@@ -1,11 +1,14 @@
 <!-- Header Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Ikramul%20Hasan%20Moral&fontSize=42&fontColor=F8FAFC&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20Final-Year%20CSE%20%40%20UIU&descAlignY=55&descSize=18" alt="Ikramul Hasan Moral" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0F766E&height=180&section=header&text=Ikramul%20Hasan&fontSize=42&fontColor=F8FAFC&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Applied%20ML%20Researcher%20%7C%20Undergraduate%20TA%20at%20UIU&descAlignY=55&descSize=16" alt="Ikramul Hasan - Full-Stack Developer, Applied ML Researcher, and Undergraduate TA at UIU" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Full-Stack+Developer;Applied+ML+Researcher;Undergraduate+Teaching+Assistant+%40+UIU;Paper+Under+Peer+Review;500%2B+Competitive+Programming+Problems" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=620&height=50&lines=Full-Stack+Developer;Applied+ML+Researcher;Sole+Engineer+at+RimonsIELTS;Undergraduate+TA+at+UIU;FYDP-II+Defended" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=0F766E&center=true&vCenter=true&width=620&height=50&lines=Full-Stack+Developer;Applied+ML+Researcher;Sole+Engineer+at+RimonsIELTS;Undergraduate+TA+at+UIU;FYDP-II+Defended" alt="Full-Stack Developer, Applied ML Researcher, Sole Engineer at RimonsIELTS, and Undergraduate TA at UIU. FYDP-II defended." />
+  </picture>
 </p>
 
 <!-- Profile Views + Followers + Contributions -->
@@ -37,68 +40,86 @@ I build **production software** and study **physics-informed machine learning**.
 
 ---
 
-## Featured Projects
+## Featured projects
 
-| Project | What it is | Tech | Links |
+| Project | What it does | Stack | Links |
 |---|---|---|---|
-| **Advyon** | AI legal-tech platform for the Bangladeshi legal ecosystem. Champion at the UIU CSE Project Show; I led a team of 5. | React, Express, TypeScript, MongoDB | [Client](https://github.com/ihmorol/advyon-client) · [Server](https://github.com/ihmorol/advyon-server) · [Live](https://advyon.vercel.app) |
-| **Rimons IELTS** | Live IELTS-prep platform I build and operate as a freelancer: student portal, REST API, and admin dashboard. | Next.js 15, Express, TypeScript, React | [Live](https://rimonsielts.com) |
-| **BriefLi** | Shortlink dashboard with AI-suggested slugs, click tracking, and public/private link spaces. Runs daily. | React, TypeScript, Supabase, Vercel | [Code](https://github.com/ihmorol/briefli) · [Live](https://s.ihmorol.cv) |
-| **Fall Detection Wearable** | End-to-end IoT safety system: Arduino firmware, a Python fall classifier, a Node.js alert server, and a caregiver dashboard. | Arduino/C++, Python, Node.js | [Code](https://github.com/ihmorol/Fall_Detection_Wearable_Device) |
-| **VoiceKey** | Offline voice typing for Linux and Windows built on faster-whisper - fully local, with a daemon mode and CLI. | Python, Whisper, CLI | [Code](https://github.com/ihmorol/voicekey) |
-| **PrintSlot** | Mobile app for campus print shops: upload files, set options, see the price, and book a pickup slot. | React Native, Expo, TypeScript | [Code](https://github.com/ihmorol/PrintSlot) |
+| **RimonsIELTS** | IELTS courses and mock tests. I'm the sole engineer for the student portal, API, admin, and Python service. | Next.js, Express, TypeScript, Python | [Live](https://rimonsielts.com) · [Details](https://ihmorol.me/projects/elearning-platform) |
+| **Advyon** | Case management, documents, and AI help for legal work. I led the five-person team that won the UIU project show. | React, Express, TypeScript, MongoDB | [Client](https://github.com/ihmorol/advyon-client) · [Live](https://advyon.vercel.app) |
+| **BriefLi** | My link shortener with AI-suggested slugs, click counts, and public or private link lists. | React, TypeScript, Supabase | [Code](https://github.com/ihmorol/briefli) · [Live](https://s.ihmorol.cv) |
+| **ODE 3D Orbit** | A 3D explorer for 16 equation systems. Change equations and constants while they run. | JavaScript, Three.js, RK4 | [Code](https://github.com/ihmorol/ode-3d-orbit) · [Live](https://ode-3d-orbit.vercel.app) |
+| **Fall Detection** | A wearable runs a fall-detection model and sends alerts to a caregiver dashboard. | Arduino, TinyML, Node.js, Next.js | [Code](https://github.com/ihmorol/fall-detection-wearable-device) |
+| **VoiceKey** | Voice typing for Linux and Windows. Local by default, with an optional cloud fallback. **Alpha.** | Python, faster-whisper | [Code](https://github.com/ihmorol/voicekey) |
+| **PrintSlot** | A team-built campus printing app with file uploads, pricing, order tracking, and pickup booking. | React Native, Expo, NestJS, Supabase | [Team repo](https://github.com/AbuBakar223200/PrintSlot) |
 
-More on my [portfolio](https://ihmorol.me/projects).
+More projects on my [portfolio](https://ihmorol.me/projects).
 
 ---
 
 ## Research
 
-- **Handling Class Imbalance in UNSW-NB15 Intrusion Detection** - *first author, under peer review (2026).* An 18-experiment study comparing class weighting and SMOTE against no balancing across LR, RF, and XGBoost, with per-class analysis of rare attacks (Worms 0.07%, Shellcode 0.65%). &nbsp;[Code](https://github.com/ihmorol/unsw-nb15-handling-binary-multiclass-ids)
-- **Solving the Lorenz ODE System Using Optimal ANN Architectures** - *undergraduate thesis, in progress (FYDP-I defended, supervisor Dr. Muhammad Nomani Kabir).* A 69-run architecture search testing how well plain neural networks learn a coupled nonlinear ODE system, against a solver-verified ground truth (RMSE ~1.3e-11). &nbsp;[Workspace](https://github.com/ihmorol/fydp_workspace)
-- **ANN Modeling of Hybrid Nanofluid Boundary Layer Flow** - a 9-layer network trained with Levenberg-Marquardt optimization on ~32,400 physics-generated samples. &nbsp;[Code](https://github.com/ihmorol/ann-hybrid-nanofluid-model)
+- **[Lorenz-1960 PINN](https://github.com/ihmorol/lorenz1960-pinn)** · **FYDP-II defended; submitted to ICEEICT 2027.** Our team studies how a network can learn an ODE solution from the equations alone. Includes numerical baselines and a [windowed study](https://github.com/ihmorol/lorenz1960-windowed-pinn). Supervisor: Dr. Muhammad Nomani Kabir.
+- **[CAN attack detection](https://github.com/ihmorol/pinn-cps-robo)** · **Research case study.** Tests physics-based signals on ROAD vehicle-network attacks. Also reports where PINNs do not improve on models without physics constraints.
+- **[DT-NB hybrid study](https://github.com/ihmorol/dt-nb-noise-removal)** · **Manuscript written, not submitted.** Compares filtering training samples with selecting and weighting features in decision-tree/Naive Bayes models.
+- **UNSW-NB15 class imbalance** · **Course paper; code private.** An 18-experiment comparison of class weighting, SMOTE, and no balancing for intrusion detection.
+- **Hybrid nanofluid flow** · **Ongoing; code private.** Uses neural networks to model fluid flow and heat transfer, checked against numerical solutions.
+
+More on my [research page](https://ihmorol.me/research).
 
 ---
 
 ## Achievements
 
-- 🥇 **Champion & Team Lead** - Software Engineering Lab (Advyon), UIU CSE Project Show
-- 🥇 **Champion** - UIU CSE Week Intra-University Programming Contest
-- 🌟 **100% Merit Scholarship** - 6 consecutive trimesters, awarded to the top 3% of students
-- 🥈 **1st Runner-Up** - Advanced Object-Oriented Programming (Java) Showcase, UIU
-- 🏅 **6th Runner-Up** - System Analysis & Design Lab Showcase, UIU
+- 🥇 **Champion & team lead** - Advyon, Software Engineering Lab, UIU CSE Project Show.
+- 🥇 **Champion** - UIU CSE Week Programming Contest, an individual win.
+- 🌟 **8 merit scholarships** - Six at 100%, one at 50%, and one at 25%.
+- 🥈 **1st Runner-Up** - Advanced Object-Oriented Programming (Java) Showcase, UIU.
+- 🏅 **6th Runner-Up** - System Analysis & Design Lab Showcase, UIU.
 
 ---
 
-## Tech Stack
+## Tech stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,java" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,java&perline=6" alt="TypeScript, JavaScript, Python, C++, C, Java" />
 
-**Frontend**
+**Web & mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&perline=4" alt="React, Next.js, Tailwind CSS, Redux" />
+
+Also React Native and Expo.
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,redis,supabase,firebase" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=3" alt="Node.js, Express, NestJS" />
 
-**Machine Learning & Data**
+**Databases & services**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="Machine Learning" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,firebase&perline=5" alt="MongoDB, PostgreSQL, Redis, Supabase, Firebase" />
 
-**Tools & DevOps**
+**ML & scientific computing**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode,postman,figma" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=2" alt="PyTorch, scikit-learn" />
+
+Also SciPy.
+
+**Tools & deployment**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode,postman,figma&perline=4" alt="Docker, Git, GitHub, Vercel, Linux, VS Code, Postman, Figma" />
 
 ---
 
 ## Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihmorol&theme=tokyo-night&hide_border=true&bg_color=0B1220&color=E6EDF3&line=E6EDF3&point=9CA3AF&area=true&area_color=E6EDF3" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihmorol/ihmorol/output/github-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ihmorol/ihmorol/output/github-contribution-graph.svg" alt="Daily GitHub contributions over the last 30 days" />
+  </picture>
 </p>
+
+<sub>Refreshed with the snake animation. If a refresh fails, the last successful images stay visible.</sub>
 
 <p align="center">
   <picture>
@@ -132,5 +153,5 @@ More on my [portfolio](https://ihmorol.me/projects).
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0F766E&height=120&section=footer" alt="Navy and teal footer wave" />
 </p>
