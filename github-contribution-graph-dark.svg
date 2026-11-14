@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="chart-title chart-description" style="max-width:100%;height:auto;font-family:system-ui,Segoe UI,sans-serif">
+<title id="chart-title">GitHub contributions for @ihmorol: 1,535 in 30 days</title>
+<desc id="chart-description">1,535 GitHub contributions from 2026-10-16 through 2026-11-14, inclusive. Daily counters for @ihmorol; last day 21; daily maximum 134. The vertical axis starts at zero; straight lines join the 30 daily values. Calendar counters only, with no repository details. Dates are UTC. Today's counts may change.</desc>
+<rect width="900" height="320" rx="12" fill="#0F172A"/>
+<g fill="#E2E8F0">
+<text x="32" y="36" font-size="26" font-weight="600">GitHub contributions</text>
+<text x="868" y="36" text-anchor="end" font-size="20">2026-10-16 – 2026-11-14</text>
+<text x="32" y="72" font-size="22">1,535 total · 21 last day · 134 daily max</text>
+</g>
+<g fill="#94A3B8" font-size="20">
+<line x1="72" x2="868" y1="240.00" y2="240.00" stroke="#334155" stroke-width="1"/>
+<text x="60" y="247.00" text-anchor="end">0</text>
+<line x1="72" x2="868" y1="194.67" y2="194.67" stroke="#334155" stroke-width="1"/>
+<text x="60" y="201.67" text-anchor="end">50</text>
+<line x1="72" x2="868" y1="149.33" y2="149.33" stroke="#334155" stroke-width="1"/>
+<text x="60" y="156.33" text-anchor="end">100</text>
+<line x1="72" x2="868" y1="104.00" y2="104.00" stroke="#334155" stroke-width="1"/>
+<text x="60" y="111.00" text-anchor="end">150</text>
+<line x1="72.00" x2="72.00" y1="240" y2="246" stroke="#334155"/>
+<text x="72.00" y="272" text-anchor="start">Oct 16</text>
+<line x1="236.69" x2="236.69" y1="240" y2="246" stroke="#334155"/>
+<text x="236.69" y="272" text-anchor="middle">Oct 22</text>
+<line x1="401.38" x2="401.38" y1="240" y2="246" stroke="#334155"/>
+<text x="401.38" y="272" text-anchor="middle">Oct 28</text>
+<line x1="566.07" x2="566.07" y1="240" y2="246" stroke="#334155"/>
+<text x="566.07" y="272" text-anchor="middle">Nov 03</text>
+<line x1="730.76" x2="730.76" y1="240" y2="246" stroke="#334155"/>
+<text x="730.76" y="272" text-anchor="middle">Nov 09</text>
+<line x1="868.00" x2="868.00" y1="240" y2="246" stroke="#334155"/>
+<text x="868.00" y="272" text-anchor="end">Nov 14</text>
+</g>
+<path d="M 72,240 L 72.00,239.09 99.45,232.75 126.90,216.43 154.34,218.24 181.79,222.77 209.24,209.17 236.69,240.00 264.14,240.00 291.59,179.25 319.03,188.32 346.48,214.61 373.93,212.80 401.38,208.27 428.83,151.15 456.28,180.16 483.72,162.93 511.17,205.55 538.62,118.51 566.07,139.36 593.52,180.16 620.97,196.48 648.41,205.55 675.86,154.77 703.31,173.81 730.76,128.48 758.21,188.32 785.66,198.29 813.10,181.97 840.55,200.11 868.00,220.96 L 868,240 Z" fill="#2DD4BF" fill-opacity="0.12"/>
+<polyline points="72.00,239.09 99.45,232.75 126.90,216.43 154.34,218.24 181.79,222.77 209.24,209.17 236.69,240.00 264.14,240.00 291.59,179.25 319.03,188.32 346.48,214.61 373.93,212.80 401.38,208.27 428.83,151.15 456.28,180.16 483.72,162.93 511.17,205.55 538.62,118.51 566.07,139.36 593.52,180.16 620.97,196.48 648.41,205.55 675.86,154.77 703.31,173.81 730.76,128.48 758.21,188.32 785.66,198.29 813.10,181.97 840.55,200.11 868.00,220.96" fill="none" stroke="#2DD4BF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="868.00" cy="220.96" r="4" fill="#2DD4BF"/>
+<text x="32" y="306" fill="#94A3B8" font-size="20">As of 2026-11-14 UTC · Today's counts may change.</text>
+</svg>
