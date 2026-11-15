@@ -30,8 +30,8 @@ I build **production software** and study **physics-informed machine learning**.
 - 🔬 **Researching** - Physics-informed neural networks, scientific computing, and physics-residual attack detection, with side studies in AI-image forensics and boundary-layer flow.
 - 📝 **Thesis** - **FYDP-II defended**. My team's Lorenz-1960 PINN manuscript is **submitted to ICEEICT 2027**. [Code & experiments](https://github.com/ihmorol/lorenz1960-pinn).
 - 🧑‍🏫 **Teaching** - **Undergraduate TA @ UIU since Aug 2025**, supporting **DBMS, DSA-I, ICS, and Software Engineering** labs.
-- 🎓 **Education** - Final-year **B.Sc. in CSE @ United International University** · **CGPA 3.94/4.00** · Expected graduation **early 2027**.
-- 🌟 **Scholarships** - **8 merit scholarships**: **6 at 100%**, **1 at 50%**, and **1 at 25%**.
+- 🎓 **Education** - Final-year **B.Sc. in CSE @ United International University** · **CGPA 3.90+/4.00** · Expected graduation **early 2027**.
+- 🌟 **Scholarships** - **8 merit scholarships**: **6 at 100%**.
 - 🏆 **Leadership** - Led the **five-person Advyon team** to **Champion at the UIU CSE Project Show**.
 - 🧩 **Algorithmic background** - **500+ problems solved during 2022–2025** on Codeforces, LeetCode, and HackerRank. My current focus is software and research.
 - 🤝 **Open to** - New-grad **software engineering / applied ML roles** and **research collaborations**.
